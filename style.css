@@ -264,4 +264,12 @@ section{
   font-size:14px;
 
 }
+.btna{
+   display:inline-block;
+    margin-top:20px;
+    padding:12px 30px;
+    border:2px solid #150606;
+    color:#a71919;
+    text-decoration:none;
+}
 
